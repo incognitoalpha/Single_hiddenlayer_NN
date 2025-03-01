@@ -42,11 +42,20 @@ This repository contains an implementation of a single hidden layer neural netwo
 
 ## Example Output
 Training Accuracy is: 100%
+
+
+
 Testing Accuracy is: 86.2%
+
+
+
 ![Loss Curve](loss_curve.png)
 
 
+
+
 ![Sample Input](sampleinput.png)
+
 
 
 Our model says it's: 3
