@@ -45,7 +45,7 @@ Training Accuracy is: 100%
 
 
 
-Testing Accuracy is: 86.2%
+Testing Accuracy is: 86.57%
 
 
 
