@@ -41,13 +41,12 @@ This repository contains an implementation of a single hidden layer neural netwo
 - Sample predictions on test images
 
 ## Example Output
-```
 Training Accuracy is: 100%
 Testing Accuracy is: 86.2%
 ![Loss Curve](https://raw.githubusercontent.com/username/repository/main/loss_curve.png)
 ![Sample Input](sampleinput.png)
 Our model says it's: 3
-```
+
 
 ## Author
 Developed using Google Colab. If you have any suggestions or improvements, feel free to contribute!
